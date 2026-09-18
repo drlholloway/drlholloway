@@ -8,7 +8,7 @@
 - ☕ Think I make cool stuff and want to [buy me a coffee](https://buymeacoffee.com/drlholloway)? 
 
 A few of the projects I've got here that are worth looking at imo:
-- [PCB Schematic Library](https://pcb-schematic-library.lanetholloway.workers.dev/) - a static site that lets you browse and search for pcbs and schematics across multiple vendors.
+- [Akashic - PCB Schematic Library Search](https://akashic.cryptideffects.com/) - a static site that lets you browse and search for pcbs and schematics across multiple vendors.
 - [Sightings](https://github.com/drlholloway/sightings) - a DCA75 workbench application for MacOS, Linux, and Android phone
 - [Tayda UV Artwork Processor](https://github.com/drlholloway/tayda-uv-artwork-processor) - a TUI / CLI tool for preparing artwork for Tayda UV printing
 - [Fretman](https://github.com/drlholloway/fretboardtrainer) - A Duolingo like fretboard learning application for Linux, MacOS, Android and iOS.
