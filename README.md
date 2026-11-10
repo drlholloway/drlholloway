@@ -8,6 +8,7 @@
 - ☕ Think I make cool stuff and want to [buy me a coffee](https://buymeacoffee.com/drlholloway)? 
 
 A few of the projects I've got here that are worth looking at imo:
+- [Geas](https://github.com/drlholloway/geas/wiki) - a GSD app for Android, Mac, and Linux that uses GitHub to store your data. All data is yours and never leaves something you own.
 - [Ley Lines](https://leylines.cryptideffects.com/) - a browsable map of guitar-pedal lineage: which circuits came from which, and the circuit blocks (tone stacks, clipping stages, ...) they share.
 - [Fast Lane](https://github.com/drlholloway/fast-lane) - a TUI that watches your GitHub repos and hands the routine work (PR reviews, CI fixes, Dependabot bumps, review requests and mentions) to Claude Code sessions, asking you only when a decision is yours.
 - [Akashic - PCB Schematic Library Search](https://akashic.cryptideffects.com/) - a static site that lets you browse and search for pcbs and schematics across multiple vendors.
